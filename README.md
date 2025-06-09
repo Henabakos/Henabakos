@@ -9,7 +9,7 @@ Currently exploring Flutter for cross-platform app development.
 - 🌱 Learning: Flutter & Clean Architecture
 - 👯 Open to collaborate on real-world projects and freelance work
 - 💬 Ask me about frontend development, UI/UX, or REST APIs
-- 📫 Reach me at: [henogato9876@gmail.com.com] or [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me at: henogato9876@gmail.com or [LinkedIn](https://linkedin.com/in/your-profile)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I solve bugs faster when I talk to my rubber duck 🐤
 
