@@ -88,7 +88,7 @@ Designed reusable backend services to support authentication, data access, and s
 ## 📫 Contact
 
 - Email: **henogato9876@gmail.com**
-- LinkedIn: *(add your real profile link)*
+- LinkedIn: *www.linkedin.com/in/henok-assefa-b0372836b*
 
 ---
 
