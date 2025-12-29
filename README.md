@@ -19,46 +19,6 @@ I enjoy solving **product and system-level problems**, not just coding tasks.
 
 ---
 
-## 🚀 Selected Projects
-
-### 🔹 Config-Driven CMS & Admin System
-A flexible CMS where layouts, sections, and permissions are controlled through configuration instead of hardcoded logic.
-
-**Key ideas:**
-- Role-based access & permissions  
-- Dynamic UI rendering  
-- Scalable backend structure  
-- UX designed for non-technical users  
-
-**Focus:** system design, flexibility vs control, maintainability
-
----
-
-### 🔹 Multi-Step Workflow / Booking Platform
-A real-world flow-based system with validations, edge cases, and state management.
-
-**Key ideas:**
-- Complex user flows  
-- Backend + frontend validation  
-- Clear UX for error handling  
-- Clean separation of concerns  
-
-**Focus:** product flow, UX + engineering alignment
-
----
-
-### 🔹 Backend Services & APIs
-Designed reusable backend services to support authentication, data access, and system communication.
-
-**Key ideas:**
-- REST API design  
-- Data modeling & validation  
-- Security and scalability considerations  
-
-**Focus:** backend architecture & long-term growth
-
----
-
 ## 🔍 Current Focus
 
 - Building product-oriented systems with **React & Next.js**
